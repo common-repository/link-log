@@ -1,0 +1,3 @@
+th:not(.column-primary) a span {
+  float: right;
+}

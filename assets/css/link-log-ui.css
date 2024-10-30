@@ -1,0 +1,27 @@
+.linklog_settings_form input[type="text"], .linklog_settings_form select { 
+  border: 1px solid #104060;
+  border-radius: 5px;
+  height: 40px;
+  line-height: 40px;
+  margin: 5px 0;
+  width: 100%;
+}
+
+.link-log .postbox .inside {
+    margin-top: 20px;
+}
+
+.link-log .nav-tab-active, .link-log .nav-tab-active:focus, .link-log .nav-tab-active:focus:active, .link-log .nav-tab-active:hover {
+  border-bottom: 1px solid #fff;
+  background: #fff;
+}
+
+
+.link-log .form-table th {
+  display: none;
+}
+
+.form-table td {
+  display: block;
+  width: auto;
+}
